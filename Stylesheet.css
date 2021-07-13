@@ -1,0 +1,10 @@
+body {
+    font-size: 20px;
+    background-color:black;
+    color: white;
+    
+}
+
+#genresList,#topRatedMovies, #myFavoriteMovie, #topRatedSciFiMovies, #madeIn1975Movies {
+    list-style-type: none;
+}
